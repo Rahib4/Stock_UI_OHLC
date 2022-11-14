@@ -1,8 +1,7 @@
-altair==4.2.0
-Jinja2==2.11.3
-Jinja2 dependencies
-MarkupSafe==2.0.1
-jsonschema==4.4.0
+altair=4.2.0
+Jinja2=2.11.3
+MarkupSafe=2.0.1
+jsonschema=4.4.0
 attrs==21.4.0
 importlib-resources=5.7
 zipp=3.7.0
